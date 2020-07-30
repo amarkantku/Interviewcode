@@ -10,3 +10,5 @@ function oneToN(n) {
   }
 }
 oneToN(5);
+
+// printRecursively = (n) => (n > 0 && printRecursively(n-1)) || console.log(n)
